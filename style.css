@@ -1,5 +1,6 @@
 div,
-header {
+header,
+body {
   background-color: black !important;
-  color: aliceblue;
+  color: rgb(218, 199, 190);
 }
